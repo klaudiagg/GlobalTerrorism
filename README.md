@@ -1,0 +1,2 @@
+# GlobalTerrorism
+Miniproject - data exploration
